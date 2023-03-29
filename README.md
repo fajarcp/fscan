@@ -1,4 +1,4 @@
-# fscan
+# fscan- finding network vulnerability
 A python script to scan network
 This file is not as advanced as nmap. This file has been created to scan the network with following option.
 1. Scan the network by entering domain
